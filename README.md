@@ -78,17 +78,8 @@ Car Assistant is a BeagleY-based road trip driving assistant that improves safet
 
 ---
 
-## How To Run (Template)
-> Update these steps to match your repo structure (paths, scripts, build commands).
-
 ### Prerequisites
 - BeagleY environment toolchain
 - Network access (for OpenMap / Overpass / Gemini)
 - `espeak` installed for TTS
 - Python installed for voice transcription feature 
-
-### Setup
-1. Clone the repo:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo>
